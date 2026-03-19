@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Justin</h1>
+
 <h3 align="center">IoT Engineer | Embedded Systems Developer</h3>
 
 ---
