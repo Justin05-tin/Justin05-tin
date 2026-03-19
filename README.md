@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:2c5364&text=IoT%20Engineer%20%7C%20Embedded%20Developer&fontSize=35&fontAlign=50&fontAlignY=40&desc=Building%20Smart%20Systems%20with%20IoT%20%26%20Embedded%20Technology&descSize=18&descAlign=50&descAlignY=65&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,100:2c5364&text=IoT%20Engineer%20%7C%20Embedded%20Developer&fontAlign=50&fontAlignY=40&desc=Building%20Smart%20Systems%20with%20IoT%20%26%20Embedded%20Technology&descSize=18&descAlign=50&descAlignY=65&fontSize=35&fontColor=ffffff)
+
+
 <h3 align="center">IoT Engineer | Embedded Systems Developer</h3>
 
 ---
