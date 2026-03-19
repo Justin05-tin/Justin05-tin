@@ -27,14 +27,33 @@
 
 ## 🛠️ Tech Stack
 
+### 💻 Programming Languages
 ![C++](https://img.shields.io/badge/C++-blue?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-red?style=for-the-badge)
+
+### 🔌 Embedded & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-green?style=for-the-badge)
 ![ESP32](https://img.shields.io/badge/ESP32-black?style=for-the-badge)
 ![STM32](https://img.shields.io/badge/STM32-blue?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge)
 
+### 📡 Communication & Protocols
+![UART](https://img.shields.io/badge/UART-gray?style=for-the-badge)
+![SPI](https://img.shields.io/badge/SPI-gray?style=for-the-badge)
+![I2C](https://img.shields.io/badge/I2C-gray?style=for-the-badge)
+![MQTT](https://img.shields.io/badge/MQTT-purple?style=for-the-badge)
+![HTTP](https://img.shields.io/badge/HTTP-blue?style=for-the-badge)
+
+### ☁️ Cloud & Database
+![Firebase](https://img.shields.io/badge/Firebase-orange?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge)
+![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge)
+
+### 🛠️ Tools & OS
+![Linux](https://img.shields.io/badge/Linux-gray?style=for-the-badge)
+![STM32CubeIDE](https://img.shields.io/badge/STM32CubeIDE-blue?style=for-the-badge)
+![Arduino IDE](https://img.shields.io/badge/Arduino_IDE-green?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-blue?style=for-the-badge)
 ---
 
 ## 📊 GitHub Stats
