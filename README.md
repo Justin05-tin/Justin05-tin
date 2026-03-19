@@ -9,8 +9,8 @@
 - Strong foundation in **embedded programming (C/C++)**, digital electronics, and hardware integration
 - Experienced with communication protocols: **UART, SPI, I2C, HTTP**
 - Building IoT systems with **cloud integration (MQTT, Firebase, AWS EC2)**
-- Able to work in English-speaking environments with strong communication & teamwork skills :contentReference[oaicite:0]{index=0}
-- Gym lover with discipline and consistency mindset
+- Able to work in English-speaking environments with strong communication & teamwork skills 
+- Gym lover with discipline and consistency mindse
 - Based in Vietnam
 
 ---
