@@ -16,12 +16,12 @@
 ---
 
 ##  IoT Focus
-- 📟 Microcontrollers: STM32, ESP32, Arduino Uno  
-- 🔌 Embedded Systems: GPIO, PWM, ADC/DAC, Timers, Interrupts  
-- 🌡️ Sensors & Modules: RFID, IR sensors, environmental sensors, LCD, motors, relays  
-- 📡 Communication: UART, SPI, I2C, MQTT, HTTP  
-- ☁️ Cloud & Backend: Firebase, Node-RED, MySQL (AWS EC2)  
-- 🛠️ Tools: STM32CubeIDE, Arduino IDE, VS Code  
+-  Microcontrollers: STM32, ESP32, Arduino Uno  
+-  Embedded Systems: GPIO, PWM, ADC/DAC, Timers, Interrupts  
+-  Sensors & Modules: RFID, IR sensors, environmental sensors, LCD, motors, relays  
+-  Communication: UART, SPI, I2C, MQTT, HTTP  
+- Cloud & Backend: Firebase, Node-RED, MySQL (AWS EC2)  
+- Tools: STM32CubeIDE, Arduino IDE, VS Code  
 
 ---
 
