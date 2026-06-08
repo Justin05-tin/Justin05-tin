@@ -1,7 +1,6 @@
 
 
 ##  About Me
-- Third-year student majoring in **IoT & Embedded Systems at VKU**
 - Passionate about designing and building **real-world IoT systems** using microcontrollers and sensors
 - Strong foundation in **embedded programming (C/C++)**, digital electronics, and hardware integration
 - Experienced with communication protocols: **UART, SPI, I2C, HTTP**
